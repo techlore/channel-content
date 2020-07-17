@@ -1,4 +1,5 @@
 # Techlore YouTube Channel
-A consistent challenge I face is realizing I made a mistake on a video I already published. Perhaps I misread an article, forgot to include important statistics, etc. I hope to post my scripts with sources and information in this repo to make sure the community can verify my information before I begin production. 
+*Spreading privacy & security to the masses.*
+Our videos are made to be digestable, while covering thorough topics to educate a full spectrum of expereince levels. 
 
-This is brand new, so I'll be updating this over time for improvements. 
+To increase transparancy and give additional insight into our passion, we've created this repo to centralize some of what we discuss throughout our content. 
