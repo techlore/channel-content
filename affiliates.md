@@ -30,7 +30,7 @@ Here are our current affiliate plans. Some have rarely (or ever) been mentioned 
 - [Coinbase](https://www.coinbase.com/join/5942e0b5d26ede03db311893)
 - [Binance](https://www.binance.com/?ref=13898297)
 
-**Links above are the affiliate links themselves**
+***Links above are the affiliate links themselves.***
 
 ## But What If...
 At any point in time, if we feel something changes, or our audience overwhelmingly doesn't agree with our decision, we hold every right and ability to cease the affiliate plan--as we have the freedom to do so by avoiding all traditional sponsorship roles. 
