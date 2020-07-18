@@ -13,7 +13,7 @@ Our content is designed to make privacy & security digestable, while covering th
 
 ## Where Do We Post Content?
 
-- [YouTube](https://youtube.com/techlore) YouTube is the platform we started on and will continue to publish to. We are firm believers in targeting the uneducated masses who are using non-privacy platforms like YouTube. 
+- [YouTube](https://youtube.com/techlore) YouTube is the platform we started on and will continue to publish to. We are firm believers in targeting the uneducated masses who are using non-private platforms like YouTube. 
 - [LBRY.tv](https://lbry.tv/@techlore:3) LBRY is a federated and privacy-respecting YouTube alternative for users who don't want to engage with our content through YouTube.
 - [PeerTube](https://tube.privacytools.io/accounts/techlore/video-channels) Similar to LBRY, PeerTube is another method of watching our content in a freedom-respecting way. Major shoutout to [Privacytools.io](https://blog.privacytools.io/introducing-our-peertube-instance/) for hosting our content for us. 
 
