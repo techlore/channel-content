@@ -1,4 +1,4 @@
-# Techlore YouTube Channel
+# Techlore Channel
 ***Spreading privacy & security to the masses***
 <img src="https://github.com/techlore-official/YT-channel/blob/master/Assets/Cover%20art.JPG">
 
