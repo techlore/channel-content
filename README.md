@@ -27,7 +27,7 @@ We have never received any obligated form of compensation for covering a service
 We simply don't accept compensation to cover a service. We cover things through our own free will and wouldn't want it any other way. 
 
 ## Affiliates
-Affiliate marketing is our largest source of revenue after YouTube's AdSense program. 
+Affiliate marketing is our largest source of revenue. 
 
 Affiliate marketing has a bad rep and for good reason. They're frequently abused with little transparancy behind their usage and influence on the content you access every day.
 
