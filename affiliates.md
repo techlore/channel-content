@@ -8,7 +8,7 @@ However, affiliate marketing offers the utmost creative freedom to individuals w
 As individuals, we crave the creative freedom to select and drop our sources of income at will; this document expalins how we prevent conflicts of interest and maintain transparancy behind what we recommend to our audience.
 
 ## How We Choose Affiliates
-The simplest form of affiliations we utilize our VPNs, but these have a separate explanation in the VPN repo (Link will be attached once this is shortly completed) as there is an additional systematic process layered above this document for an additional layer of transparancy. 
+The simplest form of affiliations we utilize our VPNs, but these have a separate explanation in the [VPN repo here](https://github.com/techlore-official/VPN-reviews/blob/master/README.md#affiliate-plans--sponsorships) as there is an additional systematic process layered above this document for an additional layer of transparancy. 
 
 Our non-VPN affiliates are chosen by answering 5 questions:
 1. *Would we genuinely recommend this to our friends and family?*
