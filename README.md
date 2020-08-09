@@ -52,4 +52,5 @@ Great question! We're not just a YouTube channel. We are aiming to expand into o
 
 3. Surveillance Report is our weekly news video & podcast to keep viewers up to speed with what's happening in the privacy & security world. Follow the podcast on all major platforms (iTunes, Spotify,etc.) or add our [RSS Link](https://surveillance-report.castos.com/feed) to your podcast client.
 4. [Plexus](https://github.com/techlore-official/plexus) is our first non-creative product we're building. Plexus crowd-sources what apps work/don't work without Google Play Services for users looking to switch to a de-googled ROM. It's all under public domain so feel free to use the data for whatever you need.
-5. We have many more projects we'd love to work on, but our small team already has enough on its plate. As we expand we hope to continue to find new ways of advocating for user privacy. Stay tuned for updates!
+5. Community-driven VPN reviews. We’ve developed a community-driven process of systematically reviewing VPNs, while offering resources to educate individuals on VPN providers. [Techlore VPN Reviews](https://github.com/techlore-official/VPN-reviews)
+6. We have many more projects we'd love to work on, but our small team already has enough on its plate. As we expand we hope to continue to find new ways of advocating for user privacy. Stay tuned for updates!
