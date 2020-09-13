@@ -47,7 +47,7 @@ Great question! We're not just a YouTube channel. We are aiming to expand into o
 2. We host several communities to offer a place for people to chat about privacy and learn from other community members. We believe in offering a tier-based system: from non-privacy services to heavily-privacy-respecting to cater to all possible audiences and give them a place to chat about privacy. Our goal is for members to start in community 1 and end up in community 3. To better accomodate this transition, we've bridged communities 1 & 3 so they can directly communicate with each other. Even if they decide not to switch, we are aware of varying threat models and are happy to accomodate community memebrs of all levels.
  * [Discord](https://discord.gg/74WhF9C)
  * [Telegram](https://t.me/techloregroup)
- * [Matrix](https://matrix.to/#/#techlore:matrix.org)
+ * [Matrix](https://matrix.to/#/+techlore-official:matrix.org)
 
 3. Surveillance Report is our weekly news video & podcast to keep viewers up to speed with what's happening in the privacy & security world. Follow the podcast on all major platforms (iTunes, Spotify,etc.) or add our [RSS Link](https://surveillance-report.castos.com/feed) to your podcast client.
 4. [Plexus](https://github.com/techlore-official/plexus) is our first non-creative product we're building. Plexus crowd-sources what apps work/don't work without Google Play Services for users looking to switch to a de-googled ROM. It's all under public domain so feel free to use the data for whatever you need.
