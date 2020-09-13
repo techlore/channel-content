@@ -4,7 +4,7 @@
 We host several communities to offer a place for people to chat about privacy and learn from other community members. We believe in offering a tier-based system: from non-privacy services to heavily-privacy-respecting to cater to all possible audiences and give them a place to chat about privacy. Our goal is for members to start in community 1 and end up in community 3. To better accomodate this transition, we've bridged communities 1 & 3 so they can directly communicate with each other. Even if they decide not to switch, we are aware of varying threat models and are happy to accomodate community members of all levels.
  * [Discord](https://discord.gg/74WhF9C)
  * [Telegram](https://t.me/techloregroup)
- * [Matrix](https://matrix.to/#/#techlore:matrix.org)
+ * [Matrix](https://matrix.to/#/+techlore-official:matrix.org)
  
  
  ## Rules
