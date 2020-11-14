@@ -25,6 +25,7 @@ Here are our current affiliate plans. Some have rarely (or ever) been mentioned 
 - [Amazon](https://www.amazon.com/shop/influencer20170928875)
 - [Brave Rewards](https://brave.com/tec118)
 - [ProtonMail](https://proton.go2cloud.org/SHAo)
+- [SimpleLogin](https://simplelogin.io/?slref=techlore)
 - [Orange Website](https://affiliate.orangewebsite.com/idevaffiliate.php?id=10799)
 - [Ledger Wallet](https://shop.ledger.com/pages/ledger-nano-x?r=aa86)
 - [Jumbo Privacy](https://web.jumboprivacy.com/?utm_source=youtube&utm_campaign=techlore)
