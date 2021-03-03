@@ -45,8 +45,6 @@ All moderator-enacted server bans are considered “bans under review” and wil
 
 ## Additional Community Guidelines
 
-### 1
-
 These aren’t hard and fast rules, but general rules of thumb you should try and follow when you’re chatting here with us (especially or primarily in our on-topic chat rooms). We expect all our community members to act in good faith, and if you continually disregard our guidelines you may lose certain privileges such as the ability to chat in certain rooms.
 
 ### 1 
