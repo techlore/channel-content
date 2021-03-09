@@ -53,7 +53,7 @@ Similar to our Windows version of this guide - While there is no evidence of dat
 
 I (Henry) really became obsessed with the cryptocurrency scene after the 2017/2018 explosion - as many people did. Here's a video I did covering some cryptocurrency investment advice which...is something I'd like to stay clear of. To add damage, some projects mentioned like Substratum were complete scams. We have opted to delist it. It is still accessible using the link above but doesn't publicly appear on YouTube organically. It has also been given a "LEGACY" tag.
 
-* [How to Cloud Mine Cryptocurrencies COMPLETE Guide! (LEGACY)](https://youtu.be/U57yJaxYeHs)
+* [How to Cloud Mine Cryptocurrencies COMPLETE Guide!](https://youtu.be/U57yJaxYeHs)
 
 Probably the worst video on this list so far. There are actually a plethora of warnings given during this video that these cloud mining services are likely scams and people should avoid them - so I'm unsure why I felt it was a good idea to make a video on it anyway. Either way, we have opted to delist it. It is still accessible using the link above but doesn't publicly appear on YouTube organically. It has also been given a "LEGACY" tag.
 
