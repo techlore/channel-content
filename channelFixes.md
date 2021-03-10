@@ -1,7 +1,7 @@
 # What is This? - Preface
-Techlore has existed since December, 2014 - that's a LONG time! We ask everyone reading this to reflect on what they knew 5+ years ago and how much they've grown since then. We are no different. We made mistakes, we could have worded something better, we could have been more mature, etc. Rather than doing nothing, we wanted to take an active approach and use our mistakes as teaching lessons for our community (and hopefully other creators as well!)
+Techlore has existed since December, 2014 - that's a LONG time! We ask everyone reading this to reflect on what they knew 5+ years ago and how much they've grown since then. We are no different. We've certainly made mistakes, we could have worded some things better, and we could have been more mature, etc. Rather than doing nothing, we wanted to take an active approach and use our mistakes as teaching lessons for our community (and hopefully other creators as well!)
 
-In this doc, you'll see all the changes we've made to our channel's content and why each decision was made. We encourage everyone reads the reasoning and we hope this sparks healthy discussions throughout our communities. Much of our content already had disclaimers before this doc was created, so this will not include previous fixes.
+In this doc, you'll see all the changes we've made to our channel's content and why each decision was made. We encourage everyone to read the reasoning behind offer decisions and we hope this sparks healthy discussions throughout our communities. Much of our content already had disclaimers before this doc was created, so this will not include previous fixes.
 
 
 ## March, 2021 Channel Changes
@@ -25,7 +25,7 @@ Both of these videos recommend the same VPN provider: SoftEther/VPNGate from a J
 
 * [Free Phone/iPad/Apple iOS Jailbreak Screen Recorder](https://youtu.be/-KX-9g3dHQg)
 
-This video is severely outdated with no room for educational benefit. We have opted to delist it. It is still accessible using the link above but doesn't publicly appear on YouTube organically. It has also been given a "LEGACY" tag.
+This video is severely outdated with no educational value or benefit. We have opted to delist it. It is still accessible using the link above but doesn't publicly appear on YouTube organically. It has also been given a "LEGACY" tag.
 
 * [Tor Setup MOST Secure/Safe Settings: Approaching Anonymity](https://youtu.be/d9aD-4z7fBw)
 
@@ -41,7 +41,7 @@ Similar to our Windows version of this guide - While there is no evidence of dat
 
 * [View Windows Experience Index on Windows 8/8.1/10](https://youtu.be/08bXHG_DDCo)
 
-This video is severely outdated with no room for educational benefit. We have opted to delist it. It is still accessible using the link above but doesn't publicly appear on YouTube organically. It has also been given a "LEGACY" tag.
+This video is severely outdated with no educational value or benefit. We have opted to delist it. It is still accessible using the link above but doesn't publicly appear on YouTube organically. It has also been given a "LEGACY" tag.
 
 * [Free Unlimited Lifetime Mac VPN (BEST Working Guide)](https://youtu.be/m-kA_JTbjBs)
 
