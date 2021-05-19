@@ -1,9 +1,8 @@
 # Techlore Community Rules
 ***Spreading privacy & security to the masses***
 
-We host several communities to offer a place for people to chat about privacy and learn from other community members. We believe in offering a tier-based system: from non-privacy services to heavily-privacy-respecting to cater to all possible audiences and give them a place to chat about privacy. Our goal is for members to start in community 1 and end up in community 3. To better accomodate this transition, we've bridged communities 1 & 3 so they can directly communicate with each other. Even if they decide not to switch, we are aware of varying threat models and are happy to accomodate community members of all levels.
+We host two major communities to offer a place for people to chat about privacy and learn from other community members. We believe in offering a tier-based system: from non-privacy services to heavily-privacy-respecting to cater to all possible audiences and give them a place to chat about privacy. We've bridged both communities so they can directly communicate with each other. Even if they decide not to switch, we are aware of varying threat models and are happy to accomodate community memebrs of all levels.
  * [Discord](https://discord.gg/74WhF9C)
- * [Telegram](https://t.me/techloregroup)
  * [Matrix](https://matrix.to/#/+techlore-official:matrix.org)
  
  
@@ -28,7 +27,7 @@ To incorporate all ages and demographics, **NSFW topics and content are strictly
 **All illegal content is strictly prohibited.** This includes (but is not limited to) illegal licenses or key generators, ‘cracked’ software, illegal media content, personal threats, and other such topics and behavior. It is of the utmost importance that the security and privacy community is completely disassociated with illegal activities.
 
 ### 6
-**Respect the moderators and all moderator decisions.** If you have an issue with a moderator decision, please reach out to Jonah or Henry in a direct message. Do not argue with the moderator either in chat or in direct messages, nor make any attempts to circumvent any actions they have taken. Not respecting this policy may result in an immediate ban.
+**Respect the moderators and all moderator decisions.** If you have an issue with a moderator decision, please submit a report with as many details as possible to [our support page](https://techlore.tech/contact.html). Do not argue with the moderator either in chat or in direct messages, nor make any attempts to circumvent any actions they have taken. Not respecting this policy may result in an immediate ban.
 
 ### 7
 **Community bans apply across all Techlore communities.** Do not attempt to circumvent bans on a platform like Discord or Telegram by joining other Techlore-operated platforms on Matrix, for example. Doing so may result in a permanent ban extension.
@@ -37,7 +36,7 @@ To incorporate all ages and demographics, **NSFW topics and content are strictly
 
 The moderation team is given a lot of flexibility in their role to make this server a great place for everybody, but typically we follow a three-warnings/mutes system before a server ban. It is at the discretion of the moderators to issue mutes, warnings, server kicks, and server bans; and they will do so based on the severity of whatever activity may have been performed.
 
-Our excellent moderation team is charged with enforcing the rules above, but they are not the sole final arbiters of the policy. You may appeal or contest any moderation decision, but you must do so by sending a direct message to an administrator (Jonah or Henry) directly. Do not argue your case in public channels, do not direct message the moderator in question with your complaint, and do not attempt to circumvent any bans that may have been placed in order to do so.
+Our excellent moderation team is charged with enforcing the rules above, but they are not the sole final arbiters of the policy. You may appeal or contest any moderation decision, but you must do so by submitting a report with as many details as possible to [our support page](https://techlore.tech/contact.html). Do not argue your case in public channels, do not direct message the moderator in question with your complaint, and do not attempt to circumvent any bans that may have been placed in order to do so.
 
 All moderator-enacted server bans are considered “bans under review” and will be evaluated by an administrator later.
 
