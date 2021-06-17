@@ -8,6 +8,7 @@ We want to hear your feedback so we can make this as good as possible for the wo
 ## Distros
 Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead of windows/privacy out of the box for your privacy. Our recommendations for the majority:
 - Fedora (overall simple, easy to use, and overall decent security)
+- Debian
 - Arch (A bit more complex to set up, but has fun things like the AUR) 
 
 ## Zone 1
