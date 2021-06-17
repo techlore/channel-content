@@ -41,7 +41,7 @@ Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead o
   - Even flatpak has some valid pros (and cons)
 - Hardening:
   - Basic: https://linuxhint.com/linux_security_hardening_checklist/
-  - 'Advanced' (not really): https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html
-  - A better Linux hardening guide would be appreciated. And no, not one throwing blatant recommendations with 0 context and treating opinions as facts. (ideally)
+  - Intermediate: https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html
+  - Advanced: https://github.com/shaurya-007/NSA-Linux-Hardening-docs
 - VMs, Dual-booting, and live operating systems
 - Snip-Snip (remove all cams & mics)
