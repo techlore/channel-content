@@ -15,7 +15,7 @@ Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead o
 - Strong login & sudo password. Also avoid root login, use sudo.
 - Proper Password management for accounts and services 
 - Device & File Encryption (LUKS, Veracrypt, etc.)
-- Firewall (iptables, firewalld, ufw)
+- Firewall (iptables, firewalld, ufw/gufw, Portmaster)
 - Browsers Part 1 (Not Chrome)
 - Search Engine (DDG, Startpage, Searx.me)
 - VPNs (Proton, IVPN, Mullvad, Windscribe)
