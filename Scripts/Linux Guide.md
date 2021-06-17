@@ -37,7 +37,7 @@ Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead o
 ## Zone 3
 - Hardening:
   - Basic: https://linuxhint.com/linux_security_hardening_checklist/
-  - 'Advanced' (not really): https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html
-  - A better Linux hardening guide would be appreciated. And no, not one throwing blatant recommendations with 0 context and treating opinions as facts. (ideally)
+  - Intermediate (not really): https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html
+  - Advanced (recommended): https://madaidans-insecurities.github.io/guides/linux-hardening.html
 - VMs, Dual-booting, and live operating systems
 - Snip-Snip (remove all cams & mics)
