@@ -45,5 +45,5 @@ Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead o
   - Intermediate: https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html
   - Advanced: https://github.com/shaurya-007/NSA-Linux-Hardening-docs
 - SELinux, and not [turning it off before attempting to learn](https://www.youtube.com/watch?v=_WOKRaM-HI4)
-- VMs, Dual-booting, and live operating systems
+- VMs, Dual-booting, "Advanced Distros", and live operating systems
 - Snip-Snip (remove all cams & mics)
