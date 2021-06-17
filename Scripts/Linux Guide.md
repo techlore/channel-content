@@ -35,6 +35,10 @@ Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead o
 - Physical (BIOS lockdown, cover cams, don’t leave device out of site, shut down when leaving for extended periods, device lock)
 
 ## Zone 3
+- Sandboxing:
+  - Firejail
+  - AppArmor
+  - Even flatpak has some valid pros (and cons)
 - Hardening:
   - Basic: https://linuxhint.com/linux_security_hardening_checklist/
   - 'Advanced' (not really): https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html
