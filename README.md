@@ -17,7 +17,7 @@ Our content is designed to make privacy & security digestable, while covering th
 
 - [YouTube](https://youtube.com/techlore) YouTube is the platform we started on and will continue to publish to. We are firm believers in targeting the masses who are using non-private platforms like YouTube. 
 - [Odysee](https://odysee.com/@techlore:3) Odysee is a federated and (more) privacy-respecting YouTube alternative for users who don't want to engage with our content through YouTube.
-- [PeerTube](https://tube.privacytools.io/accounts/techlore/video-channels) Similar to LBRY, PeerTube is another method of watching our content in a freedom-respecting way. Major shoutout to [Privacytools.io](https://blog.privacytools.io/introducing-our-peertube-instance/) for hosting our content for us. 
+- [PeerTube](https://tube.privacytools.io/accounts/techlore/video-channels) Similar to Odysee, PeerTube is another method of watching our content in a freedom-respecting way. Major shoutout to [Privacytools.io](https://blog.privacytools.io/introducing-our-peertube-instance/) for hosting our content for us. 
 
 ## Sponsors
 We have never received any obligated form of compensation for covering a service or product on our channel--we don't do sponsored content. 
