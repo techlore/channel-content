@@ -30,6 +30,7 @@ Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead o
 - Google (Like...delete it)
 - Password management part 2 (Use a password manager)
 - 2FA (Use it)
+- 2FA for user authentication (FIDO hardware tokens, e.g. [YubiKey](https://wiki.archlinux.org/title/YubiKey#Linux_user_authentication_with_PAM), works with sudo as well)
 - Browsers Part 2 (Firefox, Tor, Brave, Ung chromium)
 - Radios (Disable them when not in use)
 - User Accounts (Multiple users for different tasks, most notably a non-admin user for casual use)
