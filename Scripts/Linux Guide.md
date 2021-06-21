@@ -1,4 +1,7 @@
 # Hello, What Is This?
+
+**Note: This rough draft is now final! We have continued with the next parts of the production process. Thank you to everyone who contributed.**
+
 Believe it or not, we spend days planning out each video (right?), and our device-specific guides receive some of the most attention. Because Linux is more complex than other operating systems, we wanted to have the community check our broad draft before beginning the script. There are many areas for debate and we are hoping to give advice applicable to any user using any distro. Zone 1 is basic, Zone 2 is intermediate, and Zone 3 is advanced. 
 
 We want to hear your feedback so we can make this as good as possible for the world. Feel free to open a PR, or just send us a message on our [web form](https://techlore.tech/contact.html) if you don't use GitHub. This is just a simple checklist and the video itself will go deep into each topic, no need to leave feedback regarding the context of each bullet. 
