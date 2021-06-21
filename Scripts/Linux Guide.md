@@ -21,7 +21,7 @@ Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead o
 - VPNs (Proton, IVPN, Mullvad, Windscribe)
 - DNS (Same as VPN, or one of the PTIO options)
 - Minimalism
-- Settings/Permissions
+- Settings/Permissions (mention avoiding logging in locally when possible)
 - Updates (Automatic or frequent)
 
 ## Zone 2
