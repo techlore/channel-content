@@ -21,7 +21,7 @@ Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead o
 - VPNs (Proton, IVPN, Mullvad, Windscribe)
 - DNS (Same as VPN, or one of the PTIO options)
 - Minimalism
-- Settings/Permissions
+- Settings/Permissions (mention avoiding logging in locally when possible)
 - Updates (Automatic or frequent)
 
 ## Zone 2
@@ -40,7 +40,7 @@ Ultimately the user choice, almost every distro (even Ubuntu) is leagues ahead o
 - Sandboxing:
   - Firejail
   - AppArmor
-  - Even flatpak has some valid pros (and cons)
+  - Even flatpak has some valid pros (and cons) - https://flathub.org/apps/details/com.github.tchx84.Flatseal
 - Hardening:
   - Basic: https://linuxhint.com/linux_security_hardening_checklist/
   - Intermediate: https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html
