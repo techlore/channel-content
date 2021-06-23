@@ -31,7 +31,6 @@ Here are our current affiliate plans. Some have rarely (or ever) been mentioned 
 - [Trezor Wallet](https://shop.trezor.io/?offer_id=10&aff_id=5536)
 - [Jumbo Privacy](https://web.jumboprivacy.com/?utm_source=youtube&utm_campaign=techlore)
 - [Coinbase](https://www.coinbase.com/join/5942e0b5d26ede03db311893)
-- [Binance](https://www.binance.com/?ref=13898297)
 - [Abine DeleteMe](https://www.anrdoezrs.net/click-100370169-13794293)
 
 ***Links above are the affiliate links themselves.***
