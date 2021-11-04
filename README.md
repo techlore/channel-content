@@ -9,24 +9,16 @@ Our content is designed to make privacy & security digestable, while covering th
 
 *Tori*- Coffee drinker, writer, techie, privacy advocate, and avid watcher of psychological thrillers. Overly sarcastic.
 
-*Aydan*- Artist/musician, and a connoisseur of good times! Excited to share the story of privacy on the web, across the web!
-
 *Jonah*- Our community manager, ensuring they are welcoming and informational places for any user to learn about privacy. [Visit Website](https://jonaharagon.com/)
 
 ## Where Do We Post Content?
 
 - [YouTube](https://youtube.com/techlore) YouTube is the platform we started on and will continue to publish to. We are firm believers in targeting the masses who are using non-private platforms like YouTube. 
 - [Odysee](https://odysee.com/@techlore:3) Odysee is a federated and (more) privacy-respecting YouTube alternative for users who don't want to engage with our content through YouTube.
-- [PeerTube](https://tube.privacytools.io/accounts/techlore/video-channels) Similar to Odysee, PeerTube is another method of watching our content in a freedom-respecting way. Major shoutout to [Privacytools.io](https://blog.privacytools.io/introducing-our-peertube-instance/) for hosting our content for us. 
+- [PeerTube](https://bitcointv.com/c/techlore/videos) Similar to Odysee, PeerTube is another method of watching our content in a freedom-respecting way.
 
 ## Sponsors
-We have never received any obligated form of compensation for covering a service or product on our channel--we don't do sponsored content. 
-- We've received multi-hundred dollar offers to include product links in descriptions for videos--we said no.
-- We've been asked to do short mid-roll ads covering privacy software for thousands of dollars over the course of several videos--we said no.
-- We've been asked to review products in exchange for a set price--we said no.
-- We've been asked to give positive reviews of services for a set price--we said no.
-
-We simply don't accept compensation to cover a service. We cover things through our own free will and wouldn't want it any other way. 
+Coming Soon
 
 ## Affiliates
 Affiliate marketing is our largest source of revenue. 
