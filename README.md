@@ -18,7 +18,16 @@ Our content is designed to make privacy & security digestable, while covering th
 - [PeerTube](https://bitcointv.com/c/techlore/videos) Similar to Odysee, PeerTube is another method of watching our content in a freedom-respecting way.
 
 ## Sponsors
-Coming Soon
+We've been previously opposed to sponsors. After asking our community for their thoughts on them, protocols to put in place, and exploring ways to do it in a way where we can still be transparent, we've developed the following protocols: 
+1. First, we will only accept sponsors that either:
+* we rely on for our production workflow
+* one or more of our team-members rely on that they can vouch for
+* Or are simply services we feel confident recommending to you, after using them ourselves.
+2. Second, services are unable to sponsor a video where a conflict of interest may arise. For example, a VPN cannot sponsor a VPN review, for obvious reasons.
+3. VPN sponsors are not allowed in any context. We host open source VPN tools, and accepting any kind of sponsorship would work against that. We will be resuming the same opt-in affiliate protocol we've been using.
+4. Fourth, we hold every right and will cancel sponsorships for companies we feel no longer align with our values. Things change in the world, and we want to change with it.
+5. Finally, sponsors are unable to influence the content we make, our recommendations, or our criticisms towards the sponsor itself or its competitors.
+
 
 ## Affiliates
 Affiliate marketing is our largest source of revenue. 
