@@ -9,24 +9,26 @@ Our content is designed to make privacy & security digestable, while covering th
 
 *Tori*- Coffee drinker, writer, techie, privacy advocate, and avid watcher of psychological thrillers. Overly sarcastic.
 
-*Aydan*- Artist/musician, and a connoisseur of good times! Excited to share the story of privacy on the web, across the web!
-
 *Jonah*- Our community manager, ensuring they are welcoming and informational places for any user to learn about privacy. [Visit Website](https://jonaharagon.com/)
 
 ## Where Do We Post Content?
 
 - [YouTube](https://youtube.com/techlore) YouTube is the platform we started on and will continue to publish to. We are firm believers in targeting the masses who are using non-private platforms like YouTube. 
 - [Odysee](https://odysee.com/@techlore:3) Odysee is a federated and (more) privacy-respecting YouTube alternative for users who don't want to engage with our content through YouTube.
-- [PeerTube](https://tube.privacytools.io/accounts/techlore/video-channels) Similar to Odysee, PeerTube is another method of watching our content in a freedom-respecting way. Major shoutout to [Privacytools.io](https://blog.privacytools.io/introducing-our-peertube-instance/) for hosting our content for us. 
+- [PeerTube](https://bitcointv.com/c/techlore/videos) Similar to Odysee, PeerTube is another method of watching our content in a freedom-respecting way.
 
 ## Sponsors
-We have never received any obligated form of compensation for covering a service or product on our channel--we don't do sponsored content. 
-- We've received multi-hundred dollar offers to include product links in descriptions for videos--we said no.
-- We've been asked to do short mid-roll ads covering privacy software for thousands of dollars over the course of several videos--we said no.
-- We've been asked to review products in exchange for a set price--we said no.
-- We've been asked to give positive reviews of services for a set price--we said no.
+We've been previously opposed to sponsors, but after asking our community for their thoughts and protocols for us to put in place to maintain transparency, we've developed the following protocols: 
+1. First, we will only accept sponsors that either:
+* we rely on for our production workflow
+* one or more of our team-members rely on that they can vouch for
+* Or are simply services we feel confident recommending to you, after using them ourselves.
+* In other words, we need to actually use the service or product!
+2. Second, services are unable to sponsor a video where a conflict of interest may arise. For example, a VPN cannot sponsor a VPN review, for obvious reasons.
+3. VPN sponsors are not allowed in any context. We host open source VPN tools, and accepting any kind of sponsorship would work against that. We will be resuming the same opt-in affiliate protocol we've been using.
+4. Fourth, we hold every right and will cancel sponsorships for companies we feel no longer align with our values. Things change in the world, and we want to change with it.
+5. Finally, sponsors are unable to influence the content we make, our recommendations, or our criticisms towards the sponsor itself or its competitors.
 
-We simply don't accept compensation to cover a service. We cover things through our own free will and wouldn't want it any other way. 
 
 ## Affiliates
 Affiliate marketing is our largest source of revenue. 
