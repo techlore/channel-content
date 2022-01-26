@@ -1,6 +1,6 @@
 # Techlore Channel
 ***Spreading privacy & security to the masses***
-<img src="https://github.com/techlore-official/YT-channel/blob/master/Assets/Cover%20art.JPG">
+<img src="https://github.com/techlore/YT-channel/blob/master/Assets/Cover%20art.JPG">
 
 Our content is designed to make privacy & security digestable, while covering thorough topics to educate all experience levels.
 
