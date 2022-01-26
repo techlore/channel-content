@@ -62,3 +62,14 @@ Probably the worst video on this list so far. There are actually a plethora of w
 Here's a sad one. Braver/Bold Browser was supposed to be a fork of Brave without the 'crypto crap' following the Brave affiliate link scandal. Unfortunately, Brave threatened to sue them and the project has ceased all forms of communication and updates since then. Their GitHub repo is dead, their Discord server is dead, and no word on the project has been released. I consider them a dead project at the time of writing this - hopefully I'm wrong. We decided to keep the videos up, but add a disclaimer in the description & a pinned comment. The disclaimer is as-follows:
 
 *Notice: Unfortunately, Brave threatened to sue them and the project has ceased all forms of communication and updates since then. Their GitHub repo is dead, their Discord server is dead, and no word on the project has been released. I consider them a dead project at the time of writing this - hopefully I'm wrong.*
+
+## January, 2022 Channel Changes
+
+* [GrapheneOS Installation Guide (Simple, Fast, & EASY!)](https://youtu.be/gQkb0OAOXoc)
+* [GrapheneOS Camera Comparison: Do Photos Suck?](https://youtu.be/luTGeiXiZf4)
+* [GrapheneOS Install Error Troubleshooting Guide](https://youtu.be/qG6x4q1Ugz0)
+
+
+The project involved in these videos is beyond upset about our content. We have unlisted the videos above as we don't believe they add good value, especially the outdated installation guide. However, we have chosen to keep the original review & final recap of the project's attacks live.
+
+*Notice: These changes were implemented in late 2021, but we forgot to make them live here.*
