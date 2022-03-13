@@ -3,7 +3,7 @@
 
 We host two major communities to offer a place for people to chat about privacy and learn from other community members. We believe in offering a tier-based system: from non-privacy services to heavily-privacy-respecting to cater to all possible audiences and give them a place to chat about privacy. We've bridged both communities so they can directly communicate with each other. Even if they decide not to switch, we are aware of varying threat models and are happy to accomodate community memebrs of all levels.
  * [Discord](https://discord.gg/74WhF9C)
- * [Matrix](https://matrix.to/#/+techlore-official:matrix.org)
+ * [Matrix](https://matrix.to/#/#techlore:techlore.net)
  
  
 ## Rules
