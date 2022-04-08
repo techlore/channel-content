@@ -22,14 +22,14 @@ If we answer these questions and feel a service is not only a positive experienc
 ## Our Current Affiliates
 Here are our current affiliate plans. Some have rarely (or ever) been mentioned in our content. This is due to us not finding a right fit for the service, as we try to keep recommendations relevant to the content. We don't want to recommend shaving cream to our audience.
 
-- [Amazon](https://www.amazon.com/shop/influencer20170928875)
 - [Brave Rewards](https://brave.com/tec118)
 - [ProtonMail](https://proton.go2cloud.org/SHAo)
 - [SimpleLogin](https://simplelogin.io/?slref=techlore)
 - [Orange Website](https://affiliate.orangewebsite.com/idevaffiliate.php?id=10799)
-- [Trezor Wallet](https://shop.trezor.io/?offer_id=10&aff_id=5536)
 - [Jumbo Privacy](https://web.jumboprivacy.com/?utm_source=youtube&utm_campaign=techlore)
 - [Abine DeleteMe](https://www.anrdoezrs.net/click-100370169-13794293)
+
+(Updated April 8th, 2022)
 
 ***Links above are the affiliate links themselves.***
 

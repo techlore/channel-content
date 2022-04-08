@@ -31,11 +31,9 @@ We've been previously opposed to sponsors, but after asking our community for th
 
 
 ## Affiliates
-Affiliate marketing is our largest source of revenue. 
-
 Affiliate marketing has a bad rep and for good reason--they're frequently abused with little transparancy behind their usage. However, affiliate marketing offers the utmost creative freedom to individuals without relying on a traditional sponsorship relationship where conflicts of interest may arise.
 
-As individuals, we crave the creative freedom to select and drop our sources of income at will; we created [this document](https://github.com/techlore/YT-channel/blob/master/affiliates.md) explaining how we prevent conflicts of interest and maintain transparancy behind what we recommend to our audience. We will not allow our content or recommendations to be influenced by an affiliate plan.
+As individuals, we crave the creative freedom to select and drop our sources of income at will; we created [this document](https://github.com/techlore/channel-content/blob/master/affiliates.md) explaining how we prevent conflicts of interest and maintain transparancy behind what we recommend to our audience. We will not allow our content or recommendations to be influenced by an affiliate plan.
 
 ## Assets
 You'll find some of our [assets](https://github.com/techlore/channel-content/tree/master/Assets) in this repo. You are not allowed to steal our assets, but if you're covering our work and would like to reference us go for it. 
