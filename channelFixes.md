@@ -73,3 +73,9 @@ Here's a sad one. Braver/Bold Browser was supposed to be a fork of Brave without
 The project involved in these videos is beyond upset about our content. We have unlisted the videos above as we don't believe they add good value, especially the outdated installation guide. However, we have chosen to keep the original review & final recap of the project's attacks live.
 
 *Notice: These changes were implemented in late 2021, but we forgot to make them live here.*
+
+## April, 2022 Channel Changes
+
+* [Hardening Your Browser | Go Incognito 3.8](https://youtu.be/NXsC1j7wIQE)
+
+The process to hardening Firefox is constantly evolving, and this specific lesson of Go Incognito is probably the most out-of-date. We've added a card at the beginning of the video on YouTube, a notice in the description, a pinned comment, as well as a notice in the premium version of Go Incognito for people to [watch the updated guide we made here.](https://youtu.be/F7-bW2y6lcI)
