@@ -1,5 +1,5 @@
 # What is This? - Preface
-Techlore has existed since December, 2014 - that's a LONG time! We ask everyone reading this to reflect on what they knew 5+ years ago and how much they've grown since then. We are no different. We made mistakes, we could have worded something better, we could have been more mature, etc. Rather than doing nothing, we wanted to take an active approach and use our mistakes as teaching lessons for our community (and hopefully other creators as well!)
+Techlore has existed since December, 2014 - that's a LONG time! We ask everyone reading this to reflect on what they knew 6+ years ago and how much they've grown since then. We are no different. We made mistakes, we could have worded something better, we could have been more mature, etc. Rather than doing nothing, we wanted to take an active approach and use our mistakes as teaching lessons for our community (and hopefully other creators as well!)
 
 In this doc, you'll see all the changes we've made to our channel's content and why each decision was made. We encourage everyone reads the reasoning and we hope this sparks healthy discussions throughout our communities. Much of our content already had disclaimers before this doc was created, so this will not include previous fixes.
 
@@ -79,3 +79,14 @@ The project involved in these videos is beyond upset about our content. We have 
 * [Hardening Your Browser | Go Incognito 3.8](https://youtu.be/NXsC1j7wIQE)
 
 The process to hardening Firefox is constantly evolving, and this specific lesson of Go Incognito is probably the most out-of-date. We've added a card at the beginning of the video on YouTube, a notice in the description, a pinned comment, as well as a notice in the premium version of Go Incognito for people to [watch the updated guide we made here.](https://youtu.be/F7-bW2y6lcI)
+
+## May, 2022 Channel Changes
+
+After evaluating several methods of transparently unlisting content while still allowing people to view it, [we've released the official Techlore Archives playlist!](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CYlD3Ee1snyK6i5OmAU7AD7) These videos no longer organically appear on our videos, nor are they recommended by YouTube or appear in YouTube search. But the playlist lives on the bottom of our channel homepage and is listed as one of our playlists, so users are always able to access it. In short, this playlist includes videos we feel are no longer:
+
+- Up-to-date
+- Relevant to our channel
+- Useful
+- Or simply don't match our current standards of quality
+
+Most of these videos make us cringe, but we still want to keep them up as a learning opportunity for ourselves & others. Enjoy!
