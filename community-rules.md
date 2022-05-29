@@ -51,3 +51,6 @@ When you’re making any sort of claim contrary to popular opinion, belief, or g
 
 ### 2
 Avoid discussing controversial or offensive topics. While occasionally warranted, oftentimes topics like politics or religion distract from our goals of education in the privacy and security space, and those topics may be better served elsewhere. Consider whether the discussion really fits the room topic, it may not be constructive in #chat, but may be well received in #politics, for example. More offensive topics including acts of violence, suicide/self-harm, or school shootings are always off-topic and should be avoided. Hate speech including racist, homophobic, sexist, or ableist slurs are always strictly prohibited pursuant to our rules above.
+
+### 3
+Please avoid avatar/profile names that may confuse you with a moderator, admin, or other user. If we notice community members are confused by your choices, we'll ask you to make necessary changes. Please keep in mind both communities are bridged and bios are not synced between them, meaning your avatar & username may not confuse people on one platform, but will on another.
