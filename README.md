@@ -49,9 +49,9 @@ You'll find some of our [pre-production scripts](https://github.com/techlore/cha
 ## What Else Do We Do?
 Great question! We're not just a YouTube channel. We are aiming to expand into other methods to advocate for privacy. 
 1. [Go Incognito](https://techlore.tech/goincognito) is our free course teaching users everything they need to know from start to finish about privacy and security.
-2. We host two major communities to offer a place for people to chat about privacy and learn from other community members. We believe in offering a tier-based system: from non-privacy services to heavily-privacy-respecting to cater to all possible audiences. We've bridged both communities so they can directly communicate with each other. We are aware of varying threat models and are happy to accomodate community memebrs of all levels.
- * [Discord](https://discord.techlore.tech)
- * [Matrix](https://matrix.techlore.tech)
+2. We host two major communities to offer a place for people to chat about privacy and learn from other community members. We are aware of varying threat models and are happy to accomodate community memebrs of all levels.
+* [Forum](https://discuss.techlore.tech)
+* [Discord](https://discord.techlore.tech)
 
 
 3. [Surveillance Report](https://surveillancereport.tech) is a video podcast in collaboration with [The New Oil](https://thenewoil.org) to keep viewers updated on recent events in the privacy & security world.
