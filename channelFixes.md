@@ -90,3 +90,13 @@ After evaluating several methods of transparently unlisting content while still 
 - Or simply don't match our current standards of quality
 
 Most of these videos make us cringe, but we still want to keep them up as a learning opportunity for ourselves & others. Enjoy!
+
+## October 6th, 2022 Channel Changes
+
+After (valid) criticism regarding the inconsistency in old videos that did/didn't have old affiliate links, I have actively gone through several videos that still had old affiliate links which were supposed to be removed. There were 2 NordVPN affiliate links from public videos I removed, as well as several from AirVPN, Windscribe, and PIA. All of these have already been removed from our site and new content for a long time, but the older videos I neglected to properly remove. Windscribe was removed because they haven't had an affiliate plan in a long time - not for any change in their service.
+
+To take this a step further and clear up uncertainty, I've also gone through our unlisted, [archive playlist](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CYlD3Ee1snyK6i5OmAU7AD7) and replaced all the links I could find for the unlisted videos with disclaimers. To put it simply: if anyone finds *any* link to an old affiliate program we no longer publish on our toolkit - public video or not - please let us know at contact@techlore.tech - it's incredibly hard to find them all!
+
+Lastly, I have unlisted our [What is a VPN?! And Do You Need One?](https://youtu.be/PHqAL6zvoFE) and added it to our archive playlist as I no longer feel it properly represents what a VPN does/doesn't do. Frankly, it's not terribly inaccurate, but I'd rather archive it until we successfuly push out a quality update.
+
+**Special thanks to [Sooraj Sathyanarayanan](https://bio.link/ianonymous) for helping me find some of these old links!**
