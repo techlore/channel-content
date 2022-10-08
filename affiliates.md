@@ -36,4 +36,4 @@ Here are our current affiliate plans:
 **NOTE: We do NOT treat affiliate plans the same as sponsors. [Please read our sponsorship protocol here.](https://github.com/techlore/channel-content#sponsors)**
 
 ## But What If...
-At any point in time, if we feel something changes, or our audience overwhelmingly doesn't agree with our decision, we hold every right and ability to cease the affiliate plan--as we have the freedom to do so by avoiding traditional sponsorship roles. 
+At any point in time, if we feel something changes, or our audience overwhelmingly doesn't agree with our decision, we hold every right and ability to cease the affiliate plan--as we have the freedom to do so by not being reliant on any specific affiliate plan or sponsor. 
