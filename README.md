@@ -18,7 +18,7 @@ Techlore was built to prove privacy & security are not just achievable - but sim
 
 - [YouTube](https://youtube.com/techlore) YouTube is the platform we started on and will continue to publish to. We are firm believers in targeting the masses who are using non-private platforms like YouTube. 
 - [Odysee](https://odysee.com/@techlore:3) Odysee is a federated YouTube alternative for users who don't want to engage with our content through YouTube. Full disclosure: we do not manage or check comments on this platform.
-- [PeerTube](https://bitcointv.com/c/techlore/videos) Similar to Odysee, PeerTube is another method of watching our content in a freedom-respecting way.
+- [PeerTube](https://tilvids.com/c/techlore_channel/videos) Similar to Odysee, PeerTube is another method of watching our content in a freedom-respecting way.
 
 ## Sponsors
 We've been previously opposed to sponsors, but after asking our community for their thoughts and protocols for us to put in place to maintain transparency, we've developed the following protocols: 
