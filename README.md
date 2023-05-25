@@ -58,3 +58,7 @@ Great question! We're not just a YouTube channel. We are aiming to expand into o
 4. [Plexus](https://plexus.techlore.tech) is an open source project crowd-sourcing what apps do/don't work without Google Play Services for users looking to switch to a de-googled ROM.
 5. Our [VPN Toolkit](https://techlore.tech/vpn) is designed to educate users on the advantages & disadvantages of VPN providers.
 6. We have many more projects we'd love to work on, but our small team already has enough on its plate. As we expand, we hope to continue to find new ways of advocating for user privacy. Stay tuned!
+
+## Channel Fixes
+
+*We previously posted video fixes/changes to a log in this repo. These changes are now documented on [this thread](https://discuss.techlore.tech/t/channel-fixes-changes/3811).*
