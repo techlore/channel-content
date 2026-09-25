@@ -1,42 +1,24 @@
+> ⚠️ **This repository is archived and no longer maintained.** Information here may be outdated. For current info, visit **[techlore.tech](https://techlore.tech)**.
+
 # Techlore
 
-<img src="https://github.com/techlore/channel-content/blob/master/Assets/2022%20Cover%20Art.jpg">
+**Own your digital life.**
 
-***🕵️ Spreading privacy & security to the masses***
+Techlore is a digital rights advocacy organization led by [Henry Fisher](https://techlore.tech/about/). For over a decade, Techlore has helped people take back control of their privacy, security, and digital rights without turning it into a second job.
 
-Techlore was built to prove privacy & security are not just achievable - but simple and accessible. We manage several projects, communities, and content to spread privacy & security to the masses.
+## Projects
 
-## Who Are We?
+- **[Surveillance Report](https://techlore.tech/podcasts/)** – A weekly show and newsletter covering what matters in privacy, security, and digital rights.
+- **[Go Incognito](https://techlore.tech/go-incognito-course/)** – The complete course for taking back your security, privacy, and anonymity.
+- **[SPA Quiz](https://quiz.techlore.tech/)** – Test your security, privacy, and anonymity!
+- **[SPA Tools](https://tools.techlore.tech/)** – Find tools to close the gaps.
+- **[VPN Finder](https://vpn.techlore.tech/)** – Compare VPN providers and find the right fit.
+- **[Plexus](https://plexus.techlore.tech)** – Crowdsourced app compatibility for de-Googled Android.
 
-[*Henry*](https://henryfisher.tech/) - Runner, coach, artist, musician, book nerd, & privacy advocate. Owner of Techlore.
+## Follow Techlore
 
-[*Jonah*](https://www.jonaharagon.com/) - Technology educator, writer, community expert, gamer (of the tabletop variety), and resident self-hosting shill.
-
-## Where Do We Post Content?
-
-- [YouTube](https://youtube.com/techlore) YouTube is the platform we started on and will continue to publish to. We are firm believers in targeting the masses who are using non-private platforms like YouTube.
-- [PeerTube](https://neat.tube/c/techlore/videos?sort=-originallyPublishedAt) Similar to Odysee, PeerTube is another method of watching our content in a freedom-respecting way.
-- [Odysee](https://odysee.com/@techlore:3) Odysee is a federated YouTube alternative for users who don't want to engage with our content through YouTube. Full disclosure: we do not manage or check comments on this platform.
-
-## Sponsors & Affilates
-
-*We've moved our policy on sponsors and affiliate links to [this page](https://discuss.techlore.tech/pub/sponsors-affiliates).*
+[Website](https://techlore.tech) · [YouTube](https://youtube.com/@techlore) · [PeerTube](https://techlore.tv) · [Podcasts](https://techlore.tech/podcasts/) · [RSS](https://techlore.tech/rss/) · [Support Us](https://techlore.tech/support/)
 
 ## Assets
 
-You'll find some of our [assets](https://github.com/techlore/channel-content/tree/master/Assets) in this repo. You are not allowed to steal our assets, but if you're covering our work and would like to reference us go for it.
-
-## What Else Do We Do?
-
-Great question! We're not just a YouTube channel. We are aiming to expand into other methods to advocate for privacy.
-
-1. [Go Incognito](https://techlore.tech/goincognito) is our free course teaching users everything they need to know from start to finish about privacy and security.
-2. We host [our forum](https://discuss.techlore.tech) to offer a place for people to chat about privacy and learn from other community members. We are aware of varying threat models and are happy to accomodate community memebrs of all levels.
-3. [Surveillance Report](https://surveillancereport.tech) is a video podcast in collaboration with [The New Oil](https://thenewoil.org) to keep viewers updated on recent events in the privacy & security world.
-4. [Plexus](https://plexus.techlore.tech) is an open source project crowd-sourcing what apps do/don't work without Google Play Services for users looking to switch to a de-googled ROM.
-5. Our [VPN Toolkit](https://techlore.tech/vpn) is designed to educate users on the advantages & disadvantages of VPN providers.
-6. We have many more projects we'd love to work on, but our small team already has enough on its plate. As we expand, we hope to continue to find new ways of advocating for user privacy. Stay tuned!
-
-## Channel Fixes
-
-*We previously posted video fixes/changes to a log in this repo. These changes are now documented on [this thread](https://discuss.techlore.tech/t/channel-fixes-changes/3811).*
+This repo contains some of our [assets](https://github.com/techlore/channel-content/tree/master/Assets). If you're covering our work, feel free to reference them.
